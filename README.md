@@ -22,7 +22,7 @@ Font render inside VSCode at size 25
 - Monospace Spacing
 - *Not recommended for anything else than titles*
 
-![Sci-Bi All Caps Glitches example](sci-bi-all-caps-glitches_example.PNG)
+![Sci-Bi All Caps Glitches example](sci-bi-all-caps-glitches_example.png)
 
 ## Legal
 
