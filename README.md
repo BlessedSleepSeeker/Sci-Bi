@@ -2,6 +2,10 @@
 
 Sci-Bi is a collection of sci-fi inspired pixel fonts I made !
 
+## Download
+
+[Releases Link](https://github.com/Camille-Gouneau/Sci-Bi/releases)
+
 ## Sci-Bi
 
 - (Almost) Full support of accented characters
